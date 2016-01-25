@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm a math and computer science double major at UT Austin. I am hoping to graduate at the end of this semester--Spring, 2016. Have to make it through this class first, though.
 
-### More Information
+### What I do when I'm not coding:
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+![an image alt text]({{ site.baseurl }}/images/bookcase.jpg "My Bookcase")
